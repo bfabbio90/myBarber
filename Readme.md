@@ -25,7 +25,7 @@ Este é um projeto de front-end feito com **HTML**, **CSS** e **JavaScript**, on
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd barbershop
+   cd mybarber
    ```
 
 3. Abra o arquivo `index.html` em seu navegador:
