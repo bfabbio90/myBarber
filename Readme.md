@@ -19,7 +19,7 @@ Este é um projeto de front-end feito com **HTML**, **CSS** e **JavaScript**, on
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/bfabbio90/barbershop.git
+   git clone https://github.com/bfabbio90/myBarber.git
    ```
 
 2. Navegue até o diretório do projeto:
