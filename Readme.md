@@ -1,6 +1,6 @@
-# 💈 Projeto de Customização de Porsche
+# 💈 Projeto Landing Page Barbearia
 
-Este é um projeto simples de front-end feito com **HTML**, **CSS** e **JavaScript**, onde o usuário pode interagir com a interface de **Barbearia**. Através de botões, é entrar em contato com o barbeiro **via Whatsapp**.
+Este é um projeto de front-end feito com **HTML**, **CSS** e **JavaScript**, onde o usuário pode interagir com a interface de **Barbearia**. Através de botões, é possível entrar em contato com o barbeiro **via Whatsapp**.
 
 ## 🛠 Tecnologias Utilizadas
 
